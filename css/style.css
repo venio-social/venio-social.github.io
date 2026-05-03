@@ -217,7 +217,7 @@ body{
 }
 footer.site-footer{
     background-color:#e9eaea;
-    background-image:url(../image/venio_logo_1_middle.png.png);
+    background-image:url(../image/venio_logo_1_middle.png);
     background-position:97% 54%;
     background-position:calc(100% - 30px) 54%;
     background-position:right 30px 54%;
@@ -293,7 +293,7 @@ h1 a:hover{
     color:transparent;
     font:0 / 0 a;
     text-shadow:none;
-    background:url(../image/logo.png) 0 0 no-repeat;
+    background:url(../image/venio_logo_1_middle.png) 0 0 no-repeat;
     background-size:100px 24px;
     height:24px;
     left:36px;
